@@ -5,9 +5,11 @@ This repository contains materials and implementations I created while auditing 
 📂 algorithms/
 This directory includes Jupyter notebooks (.ipynb) and Python scripts (.py) for implementing key machine learning and data science algorithms. The collection covers:
 
-Supervised Learning: Decision Trees, k-Nearest Neighbors (KNN), etc.
-Unsupervised Learning: K-means Clustering (PyTorch implementation), etc.
-Other ML Algorithms: Various techniques studied and practiced.
+- Supervised Learning: Decision Trees, k-Nearest Neighbors (KNN), etc.
+- Unsupervised Learning: K-means Clustering (PyTorch implementation), etc.
+- Other ML Algorithms: Various techniques studied and practiced.
+
+
 📂 NLP/
 This directory contains implementations, exercises, and notes related to a Natural Language Processing (NLP) course I completed. It includes: Text preprocessing (tokenization, stemming, lemmatization), Word embeddings (Word2Vec, GloVe, Transformers), etc. 
 
